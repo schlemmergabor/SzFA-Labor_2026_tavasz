@@ -1,0 +1,1 @@
+# SzFA-Labor_2026_tavasz
