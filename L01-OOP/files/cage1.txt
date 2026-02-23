@@ -1,0 +1,8 @@
+﻿﻿Kormos,male,20,Dog
+Mici,female,320,Panda
+Morzsi,male,40,Dog
+Bundás,male,3,Dog
+Bajnok,male,5,Dog
+Bogyó,female,10,Rabbit
+Füli,male,15,Rabbit
+Bajnok,male,420,Panda

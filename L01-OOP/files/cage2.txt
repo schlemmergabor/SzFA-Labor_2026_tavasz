@@ -1,0 +1,3 @@
+﻿﻿Papa,male,121,Panda
+TapsiHapsi,female,5,Rabbit
+Foxi,male,11,Dog
