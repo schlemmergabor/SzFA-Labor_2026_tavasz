@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L01-OOP", "L01-OOP\L01-OOP.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02-Orokles", "L02-Orokles\L02-Orokles.csproj", "{957CC895-2432-4116-AFE5-84D774EE1CDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L03-Interfesz", "L03-Interfesz\L03-Interfesz.csproj", "{D54C0DCF-F5C9-4F52-B131-D38ABD284494}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{957CC895-2432-4116-AFE5-84D774EE1CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{957CC895-2432-4116-AFE5-84D774EE1CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{957CC895-2432-4116-AFE5-84D774EE1CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54C0DCF-F5C9-4F52-B131-D38ABD284494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54C0DCF-F5C9-4F52-B131-D38ABD284494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54C0DCF-F5C9-4F52-B131-D38ABD284494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54C0DCF-F5C9-4F52-B131-D38ABD284494}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
