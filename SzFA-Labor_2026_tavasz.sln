@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L10-RendezesKereses", "L10-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L10-RendezesKereses_Tests", "L10-RendezesKereses_Tests\L10-RendezesKereses_Tests.csproj", "{A56B20F4-EF05-42A2-830A-4DD92F7F2F77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11-Halmazok", "L11-Halmazok\L11-Halmazok.csproj", "{6147E971-3C92-42D7-AB25-7F8CCD4BF427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11-Halmazok_Tests", "L11-Halmazok_Tests\L11-Halmazok_Tests.csproj", "{3029A697-17D0-466A-BD53-D578C26F4B0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{A56B20F4-EF05-42A2-830A-4DD92F7F2F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A56B20F4-EF05-42A2-830A-4DD92F7F2F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A56B20F4-EF05-42A2-830A-4DD92F7F2F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6147E971-3C92-42D7-AB25-7F8CCD4BF427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6147E971-3C92-42D7-AB25-7F8CCD4BF427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6147E971-3C92-42D7-AB25-7F8CCD4BF427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6147E971-3C92-42D7-AB25-7F8CCD4BF427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3029A697-17D0-466A-BD53-D578C26F4B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3029A697-17D0-466A-BD53-D578C26F4B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3029A697-17D0-466A-BD53-D578C26F4B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3029A697-17D0-466A-BD53-D578C26F4B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
