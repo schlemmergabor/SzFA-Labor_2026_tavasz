@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11-Halmazok", "L11-Halmazo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11-Halmazok_Tests", "L11-Halmazok_Tests\L11-Halmazok_Tests.csproj", "{3029A697-17D0-466A-BD53-D578C26F4B0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MintaZH02", "MintaZH02\MintaZH02.csproj", "{9E7935A4-50BF-4F2B-9F58-2520F80F8020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MintaZH02_Tests", "MintaZH02_Tests\MintaZH02_Tests.csproj", "{0480694B-17DD-4321-9BD7-2D169F60C798}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{3029A697-17D0-466A-BD53-D578C26F4B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3029A697-17D0-466A-BD53-D578C26F4B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3029A697-17D0-466A-BD53-D578C26F4B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7935A4-50BF-4F2B-9F58-2520F80F8020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7935A4-50BF-4F2B-9F58-2520F80F8020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7935A4-50BF-4F2B-9F58-2520F80F8020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7935A4-50BF-4F2B-9F58-2520F80F8020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0480694B-17DD-4321-9BD7-2D169F60C798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0480694B-17DD-4321-9BD7-2D169F60C798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0480694B-17DD-4321-9BD7-2D169F60C798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0480694B-17DD-4321-9BD7-2D169F60C798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
